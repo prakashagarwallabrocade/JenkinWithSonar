@@ -1,6 +1,0 @@
-projectKey=com.test:MathOperations
-serverUrl=http://localhost:9000
-serverVersion=6.7.3.38370
-dashboardUrl=http://localhost:9000/dashboard/index/com.test:MathOperations
-ceTaskId=AWOCJWFUPyeI9ijrkMeg
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AWOCJWFUPyeI9ijrkMeg
